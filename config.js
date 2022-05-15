@@ -33,14 +33,14 @@ global.APIKeys = { // The APIKey is here
 
 // Sticker WM
 
-global.packname = ' 𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩ 😈🤟'
+global.packname = ' κιcнusᴇʀ⁩ 😇'
 
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
 global.fla = './src/kichu.jpg'
 
-global.watermark = '©𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩'
+global.watermark = '©κιcнusᴇʀ'
 
 global.multiplier = 69 // The higher it is, the harder it is to level up
 
